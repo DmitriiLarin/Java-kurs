@@ -1,0 +1,59 @@
+/* login.css */
+
+/* Стили для navbar */
+body {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+}
+.navbar {
+    background-color: darkgrey;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+/* Стили для формы */
+.container {
+    margin-top: 50px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.card-header {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: lightgray;
+    border-color: #343a40;
+}
+
+.btn-primary:hover {
+    background-color: darkgrey;
+    border-color: #343a40;
+}
+
+.alert {
+    margin-bottom: 10px;
+}
