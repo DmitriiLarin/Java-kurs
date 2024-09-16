@@ -1,3 +1,13 @@
+### Использованные технологии:
+- Spring REST, Security, Boot
+- CSS, HTML, JS
+- Javadoc
+- Docker
+- Maven
+- PostgreSQL
+- Tomcat server
+- Liquibase
+
 ### Инструкция по запуску приложения
 1. Убедитесь, что на вашем локальном компьютере установлен PostgreSQL, Maven, Docker
 2. Склонируйте репозиторий, перейдите в корневую директорию
